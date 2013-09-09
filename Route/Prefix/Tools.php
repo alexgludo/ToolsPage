@@ -8,7 +8,8 @@
  * @license
  * @version     Tools.php 1 09.09.13 3:47
  * @author      Bender
- *
+ * $LastChangedDate$
+ * $Rev$
  */
  
  
