@@ -1,7 +1,7 @@
 <?php
  /**
  * FirefallRussia Tools Page
- * 0
+ *
  * @category    XenForo Application
  * @package     FirefallRussia_ToolsPage
  * @copyright   Copyright (c) 2013 Firefall-Russia. (http://firefallrussia.ru/)
